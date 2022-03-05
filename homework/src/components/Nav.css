@@ -1,0 +1,17 @@
+#logoHenry {
+  margin-right: 30px;
+  border: solid;
+  border-radius: 3rem;
+  border-color: rgba(255, 248, 248, 0.466);
+}
+#navColor {
+  background-color: rgba(175, 146, 211, 0.58);
+  border: solid;
+  border-radius: 1rem;
+}
+#spanEstilo {
+  color: rgba(255, 248, 248, 0.726);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1.9rem;
+  text-shadow: -3px 1px 4px rgba(17, 17, 17, 0.53);
+}

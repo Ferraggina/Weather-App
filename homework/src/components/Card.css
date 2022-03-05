@@ -1,0 +1,38 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  background-color: rgba(251, 249, 253, 0.589);
+}
+
+.card-title {
+  margin-bottom: 15px;
+  color: rgb(34, 1, 75);
+  font-size: x-large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+.iconClima {
+  background-color: rgba(69, 2, 151, 0.465);
+  border-radius: 10rem;
+}
+#minStyle {
+  color: rgb(34, 1, 75);
+  font-size: large;
+  font-family: Helvetica, sans-serif, Arial;
+}
+#maxStyle {
+  color: rgb(34, 1, 75);
+  font-size: large;
+  font-family: Helvetica, sans-serif, Arial;
+}
